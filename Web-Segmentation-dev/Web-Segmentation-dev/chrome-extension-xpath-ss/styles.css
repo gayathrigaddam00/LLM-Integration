@@ -1,0 +1,20 @@
+/* Customize the width of the scrollbar */
+::-webkit-scrollbar {
+    width: 10px; /* Set scrollbar track width to 10px */
+}
+
+/* Style the scrollbar track */
+::-webkit-scrollbar-track {
+    background: #27272a;
+}
+
+/* Style the draggable scrollbar thumb */
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 0.375rem;
+}
+
+/* Change thumb color on hover for better contrast */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}

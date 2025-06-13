@@ -1,0 +1,55 @@
+{
+    "manifest_version": 3,
+    "name": "Xpath and SS",
+    "version": "1.0",
+    "description": "Xpath and SS",
+    "permissions": ["activeTab", "storage", "scripting"],
+    "host_permissions": ["<all_urls>"],
+    "background": {
+      "service_worker": "background.js",
+      "type":"module"
+    },
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "js": ["content.js"],
+            "css": ["styles.css"],
+            "run_at": "document_idle"
+        }
+    ],
+    "action": {}, 
+    "commands": {
+    "extract_structure": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+S"
+      },
+      "description": "Segments based on Xpath"
+    },
+    "extract_visual": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+V"
+      },
+      "description": "Segments based on screenshots"
+    },
+    "extract_spatial": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+P"
+      },
+      "description": "Segments through both"
+    }
+  },
+  "web_accessible_resources": [
+  {
+    "resources": [
+      "extractor.js",
+      "segment_visualizer.js",
+      "html2canvas.min.js",
+      "extractor-runner.js",
+      "csv/*.csv"
+    ],
+    "matches": ["<all_urls>"]
+  }
+]
+
+  }
+  

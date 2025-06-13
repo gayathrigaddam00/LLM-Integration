@@ -1,0 +1,23 @@
+webElementId,original_xpath,xpath,text
+1128,"//*[@id=""search""]/div[1]/div[1]/div[1]/span[1]/div[1]/div[32]/div[1]/div[1]/span[1]/ul[1]/span[1]","//*[@id=""search""]/div/div/div/span/div/div/div/div/span/ul/span",Previous
+1129,"//*[@id=""search""]/div[1]/div[1]/div[1]/span[1]/div[1]/div[32]/div[1]/div[1]/span[1]/ul[1]/li[1]/span[1]/span[1]","//*[@id=""search""]/div/div/div/span/div/div/div/div/span/ul/li/span/span",Page 1
+1130,"//*[@id=""search""]/div[1]/div[1]/div[1]/span[1]/div[1]/div[32]/div[1]/div[1]/span[1]/ul[1]/li[2]/span[1]/a[1]","//*[@id=""search""]/div/div/div/span/div/div/div/div/span/ul/li/span/a",2
+1131,"//*[@id=""search""]/div[1]/div[1]/div[1]/span[1]/div[1]/div[32]/div[1]/div[1]/span[1]/ul[1]/li[3]/span[1]/a[1]","//*[@id=""search""]/div/div/div/span/div/div/div/div/span/ul/li/span/a",3
+1132,"//*[@id=""search""]/div[1]/div[1]/div[1]/span[1]/div[1]/div[32]/div[1]/div[1]/span[1]/ul[1]/span[2]/svg[1]","//*[@id=""search""]/div/div/div/span/div/div/div/div/span/ul/span/svg",...
+1133,"//*[@id=""search""]/div[1]/div[1]/div[1]/span[1]/div[1]/div[32]/div[1]/div[1]/span[1]/ul[1]/span[3]","//*[@id=""search""]/div/div/div/span/div/div/div/div/span/ul/span",20
+1134,"//*[@id=""search""]/div[1]/div[1]/div[1]/span[1]/div[1]/div[32]/div[1]/div[1]/span[1]/ul[1]/li[4]/span[1]/a[1]/svg[1]","//*[@id=""search""]/div/div/div/span/div/div/div/div/span/ul/li/span/a/svg",
+1135,"//*[@id=""CardInstancest79AA5J37QHosvK2LdjGQ""]/div[1]/span[1]","//*[@id=""CardInstancest79AA5J37QHosvK2LdjGQ""]/div/span",Brands related to your search
+1136,"//*[@id=""CardInstancest79AA5J37QHosvK2LdjGQ""]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/b[1]","//*[@id=""CardInstancest79AA5J37QHosvK2LdjGQ""]/div/div/div/div/div/span/b",
+1137,"//*[@id=""CardInstancest79AA5J37QHosvK2LdjGQ""]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]","//*[@id=""CardInstancest79AA5J37QHosvK2LdjGQ""]/div/div/div/div/div/div/div/div/div/a/img",
+1138,"//*[@id=""CardInstancest79AA5J37QHosvK2LdjGQ""]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[2]/div[1]/img[1]","//*[@id=""CardInstancest79AA5J37QHosvK2LdjGQ""]/div/div/div/div/div/div/div/div/div/div/div/a/div/img",
+1139,"//*[@id=""CardInstancest79AA5J37QHosvK2LdjGQ""]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]","//*[@id=""CardInstancest79AA5J37QHosvK2LdjGQ""]/div/div/div/div/div/div/div/div/div/a/img",
+1140,"//*[@id=""CardInstancest79AA5J37QHosvK2LdjGQ""]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[2]/div[1]/img[1]","//*[@id=""CardInstancest79AA5J37QHosvK2LdjGQ""]/div/div/div/div/div/div/div/div/div/div/div/a/div/img",
+1141,"//*[@id=""CardInstancest79AA5J37QHosvK2LdjGQ""]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]","//*[@id=""CardInstancest79AA5J37QHosvK2LdjGQ""]/div/div/div/div/div/div/div/div/div/a/img",
+1142,"//*[@id=""CardInstancest79AA5J37QHosvK2LdjGQ""]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[2]/div[1]/img[1]","//*[@id=""CardInstancest79AA5J37QHosvK2LdjGQ""]/div/div/div/div/div/div/div/div/div/div/div/a/div/img",
+1143,"//*[@id=""search""]/div[1]/div[1]/div[1]/span[1]/div[1]/div[34]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]","//*[@id=""search""]/div/div/div/span/div/div/div/div/div/div/div/div/div/h2",Need help?
+1144,"//*[@id=""search""]/div[1]/div[1]/div[1]/span[1]/div[1]/div[34]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]","//*[@id=""search""]/div/div/div/span/div/div/div/div/div/div/div/div/a",Visit the help section
+1145,"//*[@id=""search""]/div[1]/div[1]/div[1]/span[1]/div[1]/div[34]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]","//*[@id=""search""]/div/div/div/span/div/div/div/div/div/div/div/div/span",or
+1146,"//*[@id=""search""]/div[1]/div[1]/div[1]/span[1]/div[1]/div[34]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[2]","//*[@id=""search""]/div/div/div/span/div/div/div/div/div/div/div/div/a",contact us
+1147,"//*[@id=""search""]/div[1]/div[1]/div[1]/span[1]/div[1]/div[35]","//*[@id=""search""]/div/div/div/span/div/div",
+111,"//*[@id=""111""]","//*[@id=""111""]",
+112,"//*[@id=""112""]","//*[@id=""112""]",

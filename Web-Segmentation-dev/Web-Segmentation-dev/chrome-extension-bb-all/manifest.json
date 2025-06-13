@@ -1,0 +1,51 @@
+{
+    "manifest_version": 3,
+    "name": "Web Extractor & Bounding Boxes all of them",
+    "version": "1.0",
+    "description": "Extract elements & draw bounding boxes for Macys and Google.",
+    "permissions": ["activeTab", "storage", "scripting"],
+    "host_permissions": ["<all_urls>"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "js": ["content.js"]
+        }
+    ],
+    "action": {}, 
+    "commands": {
+    "extract_structure": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+S"
+      },
+      "description": "Extract structural elements"
+    },
+    "extract_visual": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+V"
+      },
+      "description": "Extract visual elements"
+    },
+    "extract_spatial": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+P"
+      },
+      "description": "Extract spatial elements"
+    },
+    "extract_texts": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+T"
+      },
+      "description": "Extract text elements"
+    }
+  },
+  "web_accessible_resources": [
+      {
+        "resources": ["csv/Macys-segmented-structural.csv", "csv/Google-segmented-structural.csv", "csv/Macys-segmented-visual.csv", "csv/Segmented_Ebay_Data-structural.csv"],
+        "matches": ["<all_urls>"]
+      }
+    ]
+  }
+  

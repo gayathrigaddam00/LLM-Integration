@@ -1,0 +1,95 @@
+webElementId,original_xpath,xpath,text
+1,"//*[@id=""1""]","//*[@id=""1""]",
+2,"//*[@id=""2""]","//*[@id=""2""]",
+3,"//*[@id=""3""]","//*[@id=""3""]",Search
+86,"//*[@id=""86""]","//*[@id=""86""]",
+4,"//*[@id=""4""]","//*[@id=""4""]",
+5,"//*[@id=""5""]","//*[@id=""5""]",
+6,"//*[@id=""6""]","//*[@id=""6""]",
+7,"//*[@id=""7""]","//*[@id=""7""]",
+8,"//*[@id=""8""]","//*[@id=""8""]",4
+9,"//*[@id=""9""]","//*[@id=""9""]",
+10,"//*[@id=""10""]","//*[@id=""10""]",
+11,"//*[@id=""11""]","//*[@id=""11""]",Home
+12,"//*[@id=""12""]","//*[@id=""12""]",
+13,"//*[@id=""13""]","//*[@id=""13""]",Shorts
+14,"//*[@id=""14""]","//*[@id=""14""]",
+15,"//*[@id=""15""]","//*[@id=""15""]",Subscriptions
+16,"//*[@id=""16""]","//*[@id=""16""]",You
+17,"//*[@id=""17""]","//*[@id=""17""]",
+18,"//*[@id=""18""]","//*[@id=""18""]",
+19,"//*[@id=""19""]","//*[@id=""19""]",History
+20,"//*[@id=""20""]","//*[@id=""20""]",
+21,"//*[@id=""21""]","//*[@id=""21""]",Playlists
+22,"//*[@id=""22""]","//*[@id=""22""]",
+23,"//*[@id=""23""]","//*[@id=""23""]",Your videos
+24,"//*[@id=""24""]","//*[@id=""24""]",
+25,"//*[@id=""25""]","//*[@id=""25""]",Watch later
+26,"//*[@id=""26""]","//*[@id=""26""]",
+27,"//*[@id=""27""]","//*[@id=""27""]",Liked videos
+28,"//*[@id=""28""]","//*[@id=""28""]",Subscriptions
+29,"//*[@id=""29""]","//*[@id=""29""]",
+30,"//*[@id=""30""]","//*[@id=""30""]",take U forward
+31,"//*[@id=""31""]","//*[@id=""31""]",
+32,"//*[@id=""32""]","//*[@id=""32""]",Stanford Online
+33,"//*[@id=""33""]","//*[@id=""33""]",
+34,"//*[@id=""34""]","//*[@id=""34""]",All subscriptions
+35,"//*[@id=""35""]","//*[@id=""35""]",Explore
+36,"//*[@id=""36""]","//*[@id=""36""]",
+37,"//*[@id=""37""]","//*[@id=""37""]",Trending
+126,"//*[@id=""126""]","//*[@id=""126""]",
+127,"//*[@id=""127""]","//*[@id=""127""]",Shopping
+38,"//*[@id=""38""]","//*[@id=""38""]",All
+39,"//*[@id=""39""]","//*[@id=""39""]",Music
+40,"//*[@id=""40""]","//*[@id=""40""]",Telugu cinema
+41,"//*[@id=""41""]","//*[@id=""41""]",Data Structures
+42,"//*[@id=""42""]","//*[@id=""42""]",News
+43,"//*[@id=""43""]","//*[@id=""43""]",Podcasts
+44,"//*[@id=""44""]","//*[@id=""44""]",Software Testing
+45,"//*[@id=""45""]","//*[@id=""45""]",Deep learning
+46,"//*[@id=""46""]","//*[@id=""46""]",Data type
+47,"//*[@id=""47""]","//*[@id=""47""]",Live
+48,"//*[@id=""48""]","//*[@id=""48""]",Smooth Jazz
+49,"//*[@id=""49""]","//*[@id=""49""]",
+185,"//*[@id=""thumbnail""]/yt-image[1]/img[1]","//*[@id=""thumbnail""]/yt-image/img",
+186,"//*[@id=""overlays""]/ytd-thumbnail-overlay-time-status-renderer[1]/div[1]/badge-shape[1]/div[1]","//*[@id=""overlays""]/ytd-thumbnail-overlay-time-status-renderer/div/badge-shape/div",17:36
+187,"//*[@id=""avatar""]/yt-decorated-avatar-view-model[1]/yt-avatar-shape[1]/div[1]/div[1]/div[1]/div[1]","//*[@id=""avatar""]/yt-decorated-avatar-view-model/yt-avatar-shape/div/div/div/div",
+188,"//*[@id=""video-title""]","//*[@id=""video-title""]",Two Sum (LeetCode #1) | 3 Solutions with animations | Study Algorithms
+189,"//*[@id=""text""]/a[1]","//*[@id=""text""]/a",Nikhil Lohia
+190,"//*[@id=""metadata-line""]/span[1]","//*[@id=""metadata-line""]/span",94K views
+191,"//*[@id=""metadata-line""]/span[2]","//*[@id=""metadata-line""]/span",4 years ago
+192,"//*[@id=""button""]/yt-icon[1]/span[1]/div[1]","//*[@id=""button""]/yt-icon/span/div",
+193,"//*[@id=""thumbnail""]/yt-image[1]/img[1]","//*[@id=""thumbnail""]/yt-image/img",
+194,"//*[@id=""overlays""]/ytd-thumbnail-overlay-time-status-renderer[1]/div[1]/badge-shape[1]/div[1]","//*[@id=""overlays""]/ytd-thumbnail-overlay-time-status-renderer/div/badge-shape/div",2:15:45
+195,"//*[@id=""avatar""]/yt-decorated-avatar-view-model[1]/yt-avatar-shape[1]/div[1]/div[1]/div[1]/div[1]","//*[@id=""avatar""]/yt-decorated-avatar-view-model/yt-avatar-shape/div/div/div/div",
+196,"//*[@id=""video-title""]","//*[@id=""video-title""]",Lovers Day Latest Telugu Full Movie 4K | Priya Prakash Varrier | Noorin Shereef | 2023 Telugu Movies
+197,"//*[@id=""text""]/a[1]","//*[@id=""text""]/a",Mango Telugu Cinema
+198,"//*[@id=""channel-name""]/ytd-badge-supported-renderer[1]/div[1]/yt-icon[1]/span[1]/div[1]","//*[@id=""channel-name""]/ytd-badge-supported-renderer/div/yt-icon/span/div",
+199,"//*[@id=""metadata-line""]/span[1]","//*[@id=""metadata-line""]/span",1M views
+200,"//*[@id=""metadata-line""]/span[2]","//*[@id=""metadata-line""]/span",1 year ago
+201,"//*[@id=""button""]/yt-icon[1]/span[1]/div[1]","//*[@id=""button""]/yt-icon/span/div",
+202,"//*[@id=""thumbnail""]/yt-image[1]","//*[@id=""thumbnail""]/yt-image",
+203,"//*[@id=""avatar""]/yt-decorated-avatar-view-model[1]/yt-avatar-shape[1]/div[1]/div[1]/div[1]/div[1]/div[1]","//*[@id=""avatar""]/yt-decorated-avatar-view-model/yt-avatar-shape/div/div/div/div/div",LIVE
+204,"//*[@id=""video-title""]","//*[@id=""video-title""]",Day2-Microservices - Code SpringBoot & RestAPI
+205,"//*[@id=""text""]/a[1]","//*[@id=""text""]/a",Tausief S
+206,"//*[@id=""metadata-line""]/span[1]","//*[@id=""metadata-line""]/span",718 watching
+207,"//*[@id=""meta""]/ytd-badge-supported-renderer[1]/div[1]/yt-icon[1]/span[1]/div[1]","//*[@id=""meta""]/ytd-badge-supported-renderer/div/yt-icon/span/div",
+208,"//*[@id=""meta""]/ytd-badge-supported-renderer[1]/div[1]/p[1]","//*[@id=""meta""]/ytd-badge-supported-renderer/div/p",LIVE
+209,"//*[@id=""button""]/yt-icon[1]/span[1]/div[1]","//*[@id=""button""]/yt-icon/span/div",
+210,"//*[@id=""rendering-content""]/top-landscape-image-layout-view-model[1]/div[1]/div[3]/ad-image-view-model[1]/div[1]/img[1]","//*[@id=""rendering-content""]/top-landscape-image-layout-view-model/div/div/ad-image-view-model/div/img",
+211,"//*[@id=""rendering-content""]/top-landscape-image-layout-view-model[1]/div[1]/div[4]/yt-icon[1]/span[1]/div[1]","//*[@id=""rendering-content""]/top-landscape-image-layout-view-model/div/div/yt-icon/span/div",
+212,"//*[@id=""rendering-content""]/top-landscape-image-layout-view-model[1]/div[2]/feed-ad-metadata-view-model[1]/div[1]/div[1]/span[1]/a[1]/a[1]","//*[@id=""rendering-content""]/top-landscape-image-layout-view-model/div/feed-ad-metadata-view-model/div/div/span/a/a",Bonus Offer - Chase Total Checking®
+213,"//*[@id=""rendering-content""]/top-landscape-image-layout-view-model[1]/div[2]/feed-ad-metadata-view-model[1]/div[1]/span[1]/a[1]/a[1]","//*[@id=""rendering-content""]/top-landscape-image-layout-view-model/div/feed-ad-metadata-view-model/div/span/a/a",New Checking Customers Only. Open Chase Total Checking® w/Qual. Activities Member FDIC
+214,"//*[@id=""rendering-content""]/top-landscape-image-layout-view-model[1]/div[2]/feed-ad-metadata-view-model[1]/div[2]/button-view-model[1]/button[1]/yt-touch-feedback-shape[1]/div[1]/div[2]","//*[@id=""rendering-content""]/top-landscape-image-layout-view-model/div/feed-ad-metadata-view-model/div/button-view-model/button/yt-touch-feedback-shape/div/div",
+215,"//*[@id=""thumbnail""]/yt-image[1]/img[1]","//*[@id=""thumbnail""]/yt-image/img",
+216,"//*[@id=""overlays""]/ytd-thumbnail-overlay-time-status-renderer[1]/div[1]/badge-shape[1]/div[1]","//*[@id=""overlays""]/ytd-thumbnail-overlay-time-status-renderer/div/badge-shape/div",16:49
+217,"//*[@id=""avatar""]/yt-decorated-avatar-view-model[1]/yt-avatar-shape[1]/div[1]/div[1]/div[1]/div[1]","//*[@id=""avatar""]/yt-decorated-avatar-view-model/yt-avatar-shape/div/div/div/div",
+218,"//*[@id=""video-title""]","//*[@id=""video-title""]",Venkatesh & Aarthi Agarwal Emotional Scene | Latest Movies Scenes | iDream
+219,"//*[@id=""button""]/yt-icon[1]/span[1]/div[1]","//*[@id=""button""]/yt-icon/span/div",
+220,"//*[@id=""thumbnail""]/yt-image[1]/img[1]","//*[@id=""thumbnail""]/yt-image/img",
+221,"//*[@id=""overlays""]/ytd-thumbnail-overlay-time-status-renderer[1]/div[1]/badge-shape[1]/div[1]","//*[@id=""overlays""]/ytd-thumbnail-overlay-time-status-renderer/div/badge-shape/div",27:59
+222,"//*[@id=""avatar""]/yt-decorated-avatar-view-model[1]/yt-avatar-shape[1]/div[1]/div[1]/div[1]/div[1]","//*[@id=""avatar""]/yt-decorated-avatar-view-model/yt-avatar-shape/div/div/div/div",
+223,"//*[@id=""video-title""]","//*[@id=""video-title""]",How he Cracked HFT Internship and became 1900+ on CF? Quant vs Software in HFTs  | Ft. Karan Ralhan
+224,"//*[@id=""button""]/yt-icon[1]/span[1]/div[1]","//*[@id=""button""]/yt-icon/span/div",
+83,"//*[@id=""83""]","//*[@id=""83""]",
+84,"//*[@id=""84""]","//*[@id=""84""]",

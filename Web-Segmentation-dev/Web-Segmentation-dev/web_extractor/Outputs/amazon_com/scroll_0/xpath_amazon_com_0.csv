@@ -1,0 +1,113 @@
+webElementId,original_xpath,xpath,text
+1,"//*[@id=""nav-logo-sprites""]","//*[@id=""nav-logo-sprites""]",
+2,"//*[@id=""nav-packard-glow-loc-icon""]","//*[@id=""nav-packard-glow-loc-icon""]",
+3,"//*[@id=""glow-ingress-line1""]","//*[@id=""glow-ingress-line1""]",Deliver to GAYATHRI
+4,"//*[@id=""glow-ingress-line2""]","//*[@id=""glow-ingress-line2""]",Stony Brook 11790‌
+5,"//*[@id=""nav-search-dropdown-card""]/div[1]","//*[@id=""nav-search-dropdown-card""]/div",
+6,"//*[@id=""twotabsearchtextbox""]","//*[@id=""twotabsearchtextbox""]",Search Amazon
+7,"//*[@id=""nav-search-submit-button""]","//*[@id=""nav-search-submit-button""]",
+8,"//*[@id=""icp-nav-flyout""]/a[1]/span[1]/span[1]","//*[@id=""icp-nav-flyout""]/a/span/span",
+9,"//*[@id=""icp-nav-flyout""]/a[1]/span[1]/span[2]/span[1]","//*[@id=""icp-nav-flyout""]/a/span/span/span",United States
+10,"//*[@id=""icp-nav-flyout""]/a[1]/span[1]/span[2]/div[1]","//*[@id=""icp-nav-flyout""]/a/span/span/div",EN
+11,"//*[@id=""icp-nav-flyout""]/button[1]","//*[@id=""icp-nav-flyout""]/button",
+12,"//*[@id=""nav-link-accountList-nav-line-1""]","//*[@id=""nav-link-accountList-nav-line-1""]","Hello, Gayathri"
+13,"//*[@id=""nav-link-accountList""]/a[1]/span[1]","//*[@id=""nav-link-accountList""]/a/span",Account & Lists
+14,"//*[@id=""nav-link-accountList""]/button[1]","//*[@id=""nav-link-accountList""]/button",
+15,"//*[@id=""nav-orders""]/span[1]","//*[@id=""nav-orders""]/span",Returns
+16,"//*[@id=""nav-orders""]/span[2]","//*[@id=""nav-orders""]/span",& Orders
+17,"//*[@id=""nav-cart-count""]","//*[@id=""nav-cart-count""]",0
+18,"//*[@id=""nav-cart-text-container""]/span[2]","//*[@id=""nav-cart-text-container""]/span",Cart
+19,"//*[@id=""nav-hamburger-menu""]/i[1]","//*[@id=""nav-hamburger-menu""]/i",
+20,"//*[@id=""nav-hamburger-menu""]/span[1]","//*[@id=""nav-hamburger-menu""]/span",All
+21,"//*[@id=""nav-rufus-disco-avatar""]","//*[@id=""nav-rufus-disco-avatar""]",
+22,"//*[@id=""nav-rufus-disco-text""]","//*[@id=""nav-rufus-disco-text""]",Rufus
+23,"//*[@id=""nav-xshop""]/ul[1]/li[1]/div[1]/a[1]","//*[@id=""nav-xshop""]/ul/li/div/a",Amazon Haul
+24,"//*[@id=""nav-xshop""]/ul[1]/li[2]/div[1]/a[1]","//*[@id=""nav-xshop""]/ul/li/div/a",Same-Day Delivery
+25,"//*[@id=""nav_link_allhealthingress""]/a[1]/span[1]","//*[@id=""nav_link_allhealthingress""]/a/span",Medical Care
+26,"//*[@id=""nav_link_allhealthingress""]/button[1]","//*[@id=""nav_link_allhealthingress""]/button",
+27,"//*[@id=""nav-xshop""]/ul[1]/li[4]/div[1]/a[1]","//*[@id=""nav-xshop""]/ul/li/div/a",Saks
+28,"//*[@id=""nav-link-amazonprime""]/a[1]/span[1]","//*[@id=""nav-link-amazonprime""]/a/span",Prime
+29,"//*[@id=""nav-link-amazonprime""]/button[1]","//*[@id=""nav-link-amazonprime""]/button",
+30,"//*[@id=""nav-link-groceries""]/a[1]/span[1]","//*[@id=""nav-link-groceries""]/a/span",Groceries
+31,"//*[@id=""nav-link-groceries""]/button[1]","//*[@id=""nav-link-groceries""]/button",
+32,"//*[@id=""nav-xshop""]/ul[1]/li[7]/div[1]/a[1]","//*[@id=""nav-xshop""]/ul/li/div/a",Buy Again
+33,"//*[@id=""nav-xshop""]/ul[1]/li[8]/div[1]/a[1]","//*[@id=""nav-xshop""]/ul/li/div/a",Prime Video
+34,"//*[@id=""nav-xshop""]/ul[1]/li[9]/div[1]/a[1]","//*[@id=""nav-xshop""]/ul/li/div/a",Music
+35,"//*[@id=""nav-xshop""]/ul[1]/li[10]/div[1]/a[1]","//*[@id=""nav-xshop""]/ul/li/div/a",Shop By Interest
+36,"//*[@id=""nav-xshop""]/ul[1]/li[11]/div[1]/a[1]","//*[@id=""nav-xshop""]/ul/li/div/a",Pharmacy
+37,"//*[@id=""nav-xshop""]/ul[1]/li[12]/div[1]/a[1]","//*[@id=""nav-xshop""]/ul/li/div/a",Browsing History
+38,"//*[@id=""nav-xshop""]/ul[1]/li[13]/div[1]/a[1]","//*[@id=""nav-xshop""]/ul/li/div/a",Books
+39,"//*[@id=""nav-xshop""]/ul[1]/li[14]/div[1]/a[1]","//*[@id=""nav-xshop""]/ul/li/div/a",Handmade
+40,"//*[@id=""nav-swmslot""]","//*[@id=""nav-swmslot""]",
+41,"//*[@id=""search""]/span[1]/div[1]/h1[1]/div[1]/div[1]/div[1]/h2[1]/span[1]","//*[@id=""search""]/span/div/h1/div/div/div/h2/span","1-16 of over 100,000 results for"
+42,"//*[@id=""search""]/span[1]/div[1]/h1[1]/div[1]/div[1]/div[1]/h2[1]/span[2]","//*[@id=""search""]/span/div/h1/div/div/div/h2/span",
+43,"//*[@id=""search""]/span[1]/div[1]/h1[1]/div[1]/div[1]/div[1]/h2[1]/span[3]","//*[@id=""search""]/span/div/h1/div/div/div/h2/span","""headphones"""
+44,"//*[@id=""a-autoid-2-announce""]/span[1]","//*[@id=""a-autoid-2-announce""]/span",Sort by:
+45,"//*[@id=""a-autoid-2-announce""]/span[2]","//*[@id=""a-autoid-2-announce""]/span",Featured
+46,"//*[@id=""CardInstanceiOHCLOUDuOmOFKAQO2QTYQ""]/div[1]/div[1]/a[1]/img[1]","//*[@id=""CardInstanceiOHCLOUDuOmOFKAQO2QTYQ""]/div/div/a/img",
+47,"//*[@id=""CardInstanceiOHCLOUDuOmOFKAQO2QTYQ""]/div[1]/div[2]/div[1]/a[1]","//*[@id=""CardInstanceiOHCLOUDuOmOFKAQO2QTYQ""]/div/div/div/a",Everything you need for everyday
+48,"//*[@id=""CardInstanceiOHCLOUDuOmOFKAQO2QTYQ""]/div[1]/div[2]/a[1]","//*[@id=""CardInstanceiOHCLOUDuOmOFKAQO2QTYQ""]/div/div/a",Shop electronic accessories from Amazon Basics
+49,"//*[@id=""CardInstanceiOHCLOUDuOmOFKAQO2QTYQ""]/div[2]/div[1]/div[1]/a[1]/img[1]","//*[@id=""CardInstanceiOHCLOUDuOmOFKAQO2QTYQ""]/div/div/div/a/img",
+50,"//*[@id=""CardInstanceiOHCLOUDuOmOFKAQO2QTYQ""]/div[2]/div[1]/div[1]/a[2]","//*[@id=""CardInstanceiOHCLOUDuOmOFKAQO2QTYQ""]/div/div/div/a",Batteries
+51,"//*[@id=""CardInstanceiOHCLOUDuOmOFKAQO2QTYQ""]/div[2]/div[2]/div[1]/a[1]/img[1]","//*[@id=""CardInstanceiOHCLOUDuOmOFKAQO2QTYQ""]/div/div/div/a/img",
+52,"//*[@id=""CardInstanceiOHCLOUDuOmOFKAQO2QTYQ""]/div[2]/div[2]/div[1]/a[2]","//*[@id=""CardInstanceiOHCLOUDuOmOFKAQO2QTYQ""]/div/div/div/a",Cables
+53,"//*[@id=""CardInstanceiOHCLOUDuOmOFKAQO2QTYQ""]/div[2]/div[3]/div[1]/a[1]/img[1]","//*[@id=""CardInstanceiOHCLOUDuOmOFKAQO2QTYQ""]/div/div/div/a/img",
+54,"//*[@id=""CardInstanceiOHCLOUDuOmOFKAQO2QTYQ""]/div[2]/div[3]/div[1]/a[2]","//*[@id=""CardInstanceiOHCLOUDuOmOFKAQO2QTYQ""]/div/div/div/a",Electronic accessories
+55,"//*[@id=""CardInstanceiOHCLOUDuOmOFKAQO2QTYQ""]/div[3]/span[1]","//*[@id=""CardInstanceiOHCLOUDuOmOFKAQO2QTYQ""]/div/span",Featured from Amazon brands
+56,"//*[@id=""search""]/div[1]/div[1]/div[1]/span[1]/div[1]/div[2]/div[1]/span[1]/div[1]/div[1]/h2[1]","//*[@id=""search""]/div/div/div/span/div/div/div/span/div/div/h2",Results
+57,"//*[@id=""search""]/div[1]/div[1]/div[1]/span[1]/div[1]/div[2]/div[1]/span[1]/div[1]/div[1]/div[1]/span[1]","//*[@id=""search""]/div/div/div/span/div/div/div/span/div/div/div/span",Check each product page for other buying options.
+58,"//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/span[1]/a[1]/div[1]/img[1]","//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div/div/div/div/span/div/div/div/div/div/div/div/span/a/div/img",
+59,"//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/span[1]/a[1]/span[1]/span[1]","//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div/div/div/div/span/div/div/div/div/div/div/div/div/span/a/span/span",View Sponsored information or leave ad feedback
+60,"//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/span[1]/a[1]/span[3]","//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div/div/div/div/span/div/div/div/div/div/div/div/div/span/a/span",
+61,"//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]/h2[1]/span[1]","//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div/div/div/div/span/div/div/div/div/div/div/div/a/h2/span","Soundcore Anker Life Q20 Hybrid Active Noise Cancelling Headphones, Wireless Over Ear Bluetooth Headphones, 70H Playtime, Hi-Res Audio, Deep Bass, Memory Foam Ear Cups, Travel, Office, USB-C Charging"
+62,"//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/span[1]","//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div/div/div/div/span/div/div/div/div/div/div/div/div/span",4.5
+63,"//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/span[2]/a[1]/i[1]","//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div/div/div/div/span/div/div/div/div/div/div/div/div/span/a/i",
+64,"//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/span[2]/a[1]/i[2]","//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div/div/div/div/span/div/div/div/div/div/div/div/div/span/a/i",
+65,"//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/span[3]/div[1]/a[1]/span[1]","//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div/div/div/div/span/div/div/div/div/div/div/div/div/span/div/a/span",(87.2K)
+66,"//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/span[1]","//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div/div/div/div/span/div/div/div/div/div/div/div/div/span",10K+ bought in past month
+67,"//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/span[1]/span[2]/span[1]","//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div/div/div/div/span/div/div/div/div/div/div/div/div/div/div/div/div/a/span/span/span",$
+68,"//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/span[1]/span[2]/span[2]","//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div/div/div/div/span/div/div/div/div/div/div/div/div/div/div/div/div/a/span/span/span",39
+69,"//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/span[1]/span[2]/span[3]","//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div/div/div/div/span/div/div/div/div/div/div/div/div/div/div/div/div/a/span/span/span",99
+70,"//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/div[1]/span[1]","//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div/div/div/div/span/div/div/div/div/div/div/div/div/div/div/div/div/a/div/span",List Price:
+71,"//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/div[1]/span[2]","//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div/div/div/div/span/div/div/div/div/div/div/div/div/div/div/div/div/a/div/span",
+72,"//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/span[1]","//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div/div/div/div/span/div/div/div/div/div/div/div/div/div/div/div/span",Exclusive Prime price
+73,"//*[@id=""TRZSDFEQW""]","//*[@id=""TRZSDFEQW""]",Prime members
+74,"//*[@id=""WVCRIAFWG""]","//*[@id=""WVCRIAFWG""]",Overnight 4 AM - 8 AM
+75,"//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]","//*[@id=""411b338b-0cc1-446a-88c5-1df3cd9f6722""]/div/div/div/div/span/div/div/div/div/div/div/div/div/div",
+76,"//*[@id=""-title""]/span[1]","//*[@id=""-title""]/span",Popular Shopping Ideas
+77,"//*[@id=""filter-""]/span[1]/span[1]/li[1]/span[1]/a[1]/span[1]","//*[@id=""filter-""]/span/span/li/span/a/span",Wireless
+78,"//*[@id=""filter-""]/span[1]/span[2]/li[1]/span[1]/a[1]/span[1]","//*[@id=""filter-""]/span/span/li/span/a/span",Bluetooth
+79,"//*[@id=""filter-""]/span[1]/span[3]/li[1]/span[1]/a[1]/span[1]","//*[@id=""filter-""]/span/span/li/span/a/span",Bone Conduction
+80,"//*[@id=""filter-""]/span[1]/span[4]/li[1]/span[1]/a[1]/span[1]","//*[@id=""filter-""]/span/span/li/span/a/span",Animal
+81,"//*[@id=""filter-""]/span[1]/li[1]/span[1]/div[1]/a[1]/i[1]","//*[@id=""filter-""]/span/li/span/div/a/i",
+82,"//*[@id=""filter-""]/span[1]/li[1]/span[1]/div[1]/a[1]/span[1]","//*[@id=""filter-""]/span/li/span/div/a/span",See more
+83,"//*[@id=""p_76-title""]/span[1]","//*[@id=""p_76-title""]/span",Eligible for Free Shipping
+84,"//*[@id=""p_76/1249137011""]/span[1]/a[1]/div[1]/label[1]/i[1]","//*[@id=""p_76""]/span/a/div/label/i",
+85,"//*[@id=""p_76/1249137011""]/span[1]/a[1]/span[1]","//*[@id=""p_76""]/span/a/span",Free Shipping by Amazon
+86,"//*[@id=""p_76/1249137011""]/span[1]/a[1]/div[2]/span[1]","//*[@id=""p_76""]/span/a/div/span",Get FREE Shipping on eligible orders shipped by Amazon
+87,"//*[@id=""p_90-title""]/span[1]","//*[@id=""p_90-title""]/span",Delivery Day
+88,"//*[@id=""p_90/8308921011""]/span[1]/a[1]/div[1]/label[1]/i[1]","//*[@id=""p_90""]/span/a/div/label/i",
+89,"//*[@id=""p_90/8308921011""]/span[1]/a[1]/span[1]","//*[@id=""p_90""]/span/a/span",Get It by Tomorrow
+90,"//*[@id=""p_123-title""]/span[1]","//*[@id=""p_123-title""]/span",Brands
+91,"//*[@id=""p_123/237204""]/span[1]/a[1]/div[1]/label[1]/i[1]","//*[@id=""p_123""]/span/a/div/label/i",
+92,"//*[@id=""p_123/237204""]/span[1]/a[1]/span[1]","//*[@id=""p_123""]/span/a/span",Sony
+93,"//*[@id=""p_123/325772""]/span[1]/a[1]/div[1]/label[1]/i[1]","//*[@id=""p_123""]/span/a/div/label/i",
+94,"//*[@id=""p_123/325772""]/span[1]/a[1]/span[1]","//*[@id=""p_123""]/span/a/span",Beats
+95,"//*[@id=""p_123/264616""]/span[1]/a[1]/div[1]/label[1]/i[1]","//*[@id=""p_123""]/span/a/div/label/i",
+96,"//*[@id=""p_123/264616""]/span[1]/a[1]/span[1]","//*[@id=""p_123""]/span/a/span",Bose
+97,"//*[@id=""p_123/233043""]/span[1]/a[1]/div[1]/label[1]/i[1]","//*[@id=""p_123""]/span/a/div/label/i",
+98,"//*[@id=""p_123/233043""]/span[1]/a[1]/span[1]","//*[@id=""p_123""]/span/a/span",JBL
+99,"//*[@id=""p_123/213748""]/span[1]/a[1]/div[1]/label[1]/i[1]","//*[@id=""p_123""]/span/a/div/label/i",
+100,"//*[@id=""p_123/213748""]/span[1]/a[1]/span[1]","//*[@id=""p_123""]/span/a/span",Sennheiser
+101,"//*[@id=""p_123/193772""]/span[1]/a[1]/div[1]/label[1]/i[1]","//*[@id=""p_123""]/span/a/div/label/i",
+102,"//*[@id=""p_123/193772""]/span[1]/a[1]/span[1]","//*[@id=""p_123""]/span/a/span",Skullcandy
+103,"//*[@id=""p_123/233917""]/span[1]/a[1]/div[1]/label[1]/i[1]","//*[@id=""p_123""]/span/a/div/label/i",
+104,"//*[@id=""p_123/233917""]/span[1]/a[1]/span[1]","//*[@id=""p_123""]/span/a/span",Audio-Technica
+105,"//*[@id=""filter-p_123""]/span[1]/li[1]/span[1]/div[1]/a[1]/i[1]","//*[@id=""filter-p_123""]/span/li/span/div/a/i",
+106,"//*[@id=""filter-p_123""]/span[1]/li[1]/span[1]/div[1]/a[1]/span[1]","//*[@id=""filter-p_123""]/span/li/span/div/a/span",See more
+107,"//*[@id=""p_n_feature_forty-one_browse-bin-title""]/span[1]","//*[@id=""p_n_feature_forty-one_browse-bin-title""]/span",Top Brands
+108,"//*[@id=""p_n_feature_forty-one_browse-bin/119653281011""]/span[1]/a[1]/div[1]/label[1]/i[1]","//*[@id=""p_n_feature_forty-one_browse-bin""]/span/a/div/label/i",
+109,"//*[@id=""p_n_feature_forty-one_browse-bin/119653281011""]/span[1]/a[1]/span[1]","//*[@id=""p_n_feature_forty-one_browse-bin""]/span/a/span",Top Brands
+110,"//*[@id=""p_72-title""]/span[1]","//*[@id=""p_72-title""]/span",Customer Reviews
+111,"//*[@id=""mentorai-extension""]/div[1]/div[1]/div[1]/div[1]/img[1]","//*[@id=""mentorai-extension""]/div/div/div/div/img",
+112,"//*[@id=""mentorai-extension""]/div[1]/div[1]/div[1]/div[1]/span[1]","//*[@id=""mentorai-extension""]/div/div/div/div/span",

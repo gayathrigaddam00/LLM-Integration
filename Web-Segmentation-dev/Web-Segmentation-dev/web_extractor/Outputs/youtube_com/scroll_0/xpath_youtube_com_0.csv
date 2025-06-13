@@ -1,0 +1,85 @@
+webElementId,original_xpath,xpath,text
+1,"//*[@id=""guide-icon""]/span[1]/div[1]","//*[@id=""guide-icon""]/span/div",
+2,"//*[@id=""logo-icon""]/span[1]/div[1]","//*[@id=""logo-icon""]/span/div",
+3,"//*[@id=""center""]/yt-searchbox[1]/div[1]/form[1]/input[1]","//*[@id=""center""]/yt-searchbox/div/form/input",Search
+4,"//*[@id=""center""]/yt-searchbox[1]/button[1]/yt-icon[1]/span[1]/div[1]","//*[@id=""center""]/yt-searchbox/button/yt-icon/span/div",
+5,"//*[@id=""voice-search-button""]/ytd-button-renderer[1]/yt-button-shape[1]/button[1]/yt-touch-feedback-shape[1]/div[1]/div[2]","//*[@id=""voice-search-button""]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div",
+6,"//*[@id=""buttons""]/ytd-button-renderer[1]/yt-button-shape[1]/button[1]/yt-touch-feedback-shape[1]/div[1]/div[2]","//*[@id=""buttons""]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div",
+7,"//*[@id=""button""]/yt-icon-badge-shape[1]/div[1]/div[1]/yt-icon[1]/span[1]/div[1]","//*[@id=""button""]/yt-icon-badge-shape/div/div/yt-icon/span/div",
+8,"//*[@id=""button""]/yt-icon-badge-shape[1]/div[1]/div[2]","//*[@id=""button""]/yt-icon-badge-shape/div/div",4
+9,"//*[@id=""img""]","//*[@id=""img""]",
+10,"//*[@id=""endpoint""]/tp-yt-paper-item[1]/yt-icon[1]/span[1]/div[1]","//*[@id=""endpoint""]/tp-yt-paper-item/yt-icon/span/div",
+11,"//*[@id=""endpoint""]/tp-yt-paper-item[1]/yt-formatted-string[1]","//*[@id=""endpoint""]/tp-yt-paper-item/yt-formatted-string",Home
+12,"//*[@id=""endpoint""]/tp-yt-paper-item[1]/yt-icon[1]/span[1]/div[1]","//*[@id=""endpoint""]/tp-yt-paper-item/yt-icon/span/div",
+13,"//*[@id=""endpoint""]/tp-yt-paper-item[1]/yt-formatted-string[1]","//*[@id=""endpoint""]/tp-yt-paper-item/yt-formatted-string",Shorts
+14,"//*[@id=""endpoint""]/tp-yt-paper-item[1]/yt-icon[1]/span[1]/div[1]","//*[@id=""endpoint""]/tp-yt-paper-item/yt-icon/span/div",
+15,"//*[@id=""endpoint""]/tp-yt-paper-item[1]/yt-formatted-string[1]","//*[@id=""endpoint""]/tp-yt-paper-item/yt-formatted-string",Subscriptions
+16,"//*[@id=""endpoint""]/tp-yt-paper-item[1]/yt-formatted-string[1]","//*[@id=""endpoint""]/tp-yt-paper-item/yt-formatted-string",You
+17,"//*[@id=""endpoint""]/tp-yt-paper-item[1]/yt-icon[2]/span[1]/div[1]","//*[@id=""endpoint""]/tp-yt-paper-item/yt-icon/span/div",
+18,"//*[@id=""endpoint""]/tp-yt-paper-item[1]/yt-icon[1]/span[1]/div[1]","//*[@id=""endpoint""]/tp-yt-paper-item/yt-icon/span/div",
+19,"//*[@id=""endpoint""]/tp-yt-paper-item[1]/yt-formatted-string[1]","//*[@id=""endpoint""]/tp-yt-paper-item/yt-formatted-string",History
+20,"//*[@id=""endpoint""]/tp-yt-paper-item[1]/yt-icon[1]/span[1]/div[1]","//*[@id=""endpoint""]/tp-yt-paper-item/yt-icon/span/div",
+21,"//*[@id=""endpoint""]/tp-yt-paper-item[1]/yt-formatted-string[1]","//*[@id=""endpoint""]/tp-yt-paper-item/yt-formatted-string",Playlists
+22,"//*[@id=""endpoint""]/tp-yt-paper-item[1]/yt-icon[1]/span[1]/div[1]","//*[@id=""endpoint""]/tp-yt-paper-item/yt-icon/span/div",
+23,"//*[@id=""endpoint""]/tp-yt-paper-item[1]/yt-formatted-string[1]","//*[@id=""endpoint""]/tp-yt-paper-item/yt-formatted-string",Your videos
+24,"//*[@id=""endpoint""]/tp-yt-paper-item[1]/yt-icon[1]/span[1]/div[1]","//*[@id=""endpoint""]/tp-yt-paper-item/yt-icon/span/div",
+25,"//*[@id=""endpoint""]/tp-yt-paper-item[1]/yt-formatted-string[1]","//*[@id=""endpoint""]/tp-yt-paper-item/yt-formatted-string",Watch later
+26,"//*[@id=""endpoint""]/tp-yt-paper-item[1]/yt-icon[1]/span[1]/div[1]","//*[@id=""endpoint""]/tp-yt-paper-item/yt-icon/span/div",
+27,"//*[@id=""endpoint""]/tp-yt-paper-item[1]/yt-formatted-string[1]","//*[@id=""endpoint""]/tp-yt-paper-item/yt-formatted-string",Liked videos
+28,"//*[@id=""guide-section-title""]","//*[@id=""guide-section-title""]",Subscriptions
+29,"//*[@id=""img""]","//*[@id=""img""]",
+30,"//*[@id=""endpoint""]/tp-yt-paper-item[1]/yt-formatted-string[1]","//*[@id=""endpoint""]/tp-yt-paper-item/yt-formatted-string",take U forward
+31,"//*[@id=""img""]","//*[@id=""img""]",
+32,"//*[@id=""endpoint""]/tp-yt-paper-item[1]/yt-formatted-string[1]","//*[@id=""endpoint""]/tp-yt-paper-item/yt-formatted-string",Stanford Online
+33,"//*[@id=""endpoint""]/tp-yt-paper-item[1]/yt-icon[1]/span[1]/div[1]","//*[@id=""endpoint""]/tp-yt-paper-item/yt-icon/span/div",
+34,"//*[@id=""endpoint""]/tp-yt-paper-item[1]/yt-formatted-string[1]","//*[@id=""endpoint""]/tp-yt-paper-item/yt-formatted-string",All subscriptions
+35,"//*[@id=""guide-section-title""]","//*[@id=""guide-section-title""]",Explore
+36,"//*[@id=""endpoint""]/tp-yt-paper-item[1]/yt-icon[1]/span[1]/div[1]","//*[@id=""endpoint""]/tp-yt-paper-item/yt-icon/span/div",
+37,"//*[@id=""endpoint""]/tp-yt-paper-item[1]/yt-formatted-string[1]","//*[@id=""endpoint""]/tp-yt-paper-item/yt-formatted-string",Trending
+38,"//*[@id=""chip-shape-container""]/chip-shape[1]/button[1]/div[1]","//*[@id=""chip-shape-container""]/chip-shape/button/div",All
+39,"//*[@id=""chip-shape-container""]/chip-shape[1]/button[1]/div[1]","//*[@id=""chip-shape-container""]/chip-shape/button/div",Music
+40,"//*[@id=""chip-shape-container""]/chip-shape[1]/button[1]/div[1]","//*[@id=""chip-shape-container""]/chip-shape/button/div",Telugu cinema
+41,"//*[@id=""chip-shape-container""]/chip-shape[1]/button[1]/div[1]","//*[@id=""chip-shape-container""]/chip-shape/button/div",Data Structures
+42,"//*[@id=""chip-shape-container""]/chip-shape[1]/button[1]/div[1]","//*[@id=""chip-shape-container""]/chip-shape/button/div",News
+43,"//*[@id=""chip-shape-container""]/chip-shape[1]/button[1]/div[1]","//*[@id=""chip-shape-container""]/chip-shape/button/div",Podcasts
+44,"//*[@id=""chip-shape-container""]/chip-shape[1]/button[1]/div[1]","//*[@id=""chip-shape-container""]/chip-shape/button/div",Software Testing
+45,"//*[@id=""chip-shape-container""]/chip-shape[1]/button[1]/div[1]","//*[@id=""chip-shape-container""]/chip-shape/button/div",Deep learning
+46,"//*[@id=""chip-shape-container""]/chip-shape[1]/button[1]/div[1]","//*[@id=""chip-shape-container""]/chip-shape/button/div",Data type
+47,"//*[@id=""chip-shape-container""]/chip-shape[1]/button[1]/div[1]","//*[@id=""chip-shape-container""]/chip-shape/button/div",Live
+48,"//*[@id=""chip-shape-container""]/chip-shape[1]/button[1]/div[1]","//*[@id=""chip-shape-container""]/chip-shape/button/div",Smooth Jazz
+49,"//*[@id=""right-arrow-button""]/ytd-button-renderer[1]/yt-button-shape[1]/button[1]/yt-touch-feedback-shape[1]/div[1]/div[2]","//*[@id=""right-arrow-button""]/ytd-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div",
+50,"//*[@id=""thumbnail""]/yt-image[1]/img[1]","//*[@id=""thumbnail""]/yt-image/img",
+51,"//*[@id=""time-status""]/yt-icon[1]/span[1]/div[1]","//*[@id=""time-status""]/yt-icon/span/div",
+52,"//*[@id=""img""]","//*[@id=""img""]",
+53,"//*[@id=""video-title""]/span[1]","//*[@id=""video-title""]/span",Command the battlefield with the precision of keyboard and mouse on PC.​
+54,"//*[@id=""button""]/yt-icon[1]/span[1]/div[1]","//*[@id=""button""]/yt-icon/span/div",
+55,"//*[@id=""badge""]/ytd-badge-supported-renderer[1]/div[1]/p[1]","//*[@id=""badge""]/ytd-badge-supported-renderer/div/p",Sponsored
+56,"//*[@id=""text""]","//*[@id=""text""]",Go to channel: Google Play.
+57,"//*[@id=""secondary-button""]/yt-button-shape[1]/a[1]/yt-touch-feedback-shape[1]/div[1]/div[2]","//*[@id=""secondary-button""]/yt-button-shape/a/yt-touch-feedback-shape/div/div",
+58,"//*[@id=""call-to-action""]/ytd-button-renderer[1]/yt-button-shape[1]/a[1]/yt-touch-feedback-shape[1]/div[1]/div[2]","//*[@id=""call-to-action""]/ytd-button-renderer/yt-button-shape/a/yt-touch-feedback-shape/div/div",
+59,"//*[@id=""thumbnail""]/yt-image[1]/img[1]","//*[@id=""thumbnail""]/yt-image/img",
+60,"//*[@id=""overlays""]/ytd-thumbnail-overlay-time-status-renderer[1]/div[1]/badge-shape[1]/div[1]","//*[@id=""overlays""]/ytd-thumbnail-overlay-time-status-renderer/div/badge-shape/div",2:22:33
+61,"//*[@id=""avatar""]/yt-decorated-avatar-view-model[1]/yt-avatar-shape[1]/div[1]/div[1]/div[1]/div[1]","//*[@id=""avatar""]/yt-decorated-avatar-view-model/yt-avatar-shape/div/div/div/div",
+62,"//*[@id=""video-title""]","//*[@id=""video-title""]","Sakhi Telugu Full Movie | Madhavan, Shalini | Sri Balaji Video"
+63,"//*[@id=""text""]/a[1]","//*[@id=""text""]/a",SriBalajiMovies
+64,"//*[@id=""channel-name""]/ytd-badge-supported-renderer[1]/div[1]/yt-icon[1]/span[1]/div[1]","//*[@id=""channel-name""]/ytd-badge-supported-renderer/div/yt-icon/span/div",
+65,"//*[@id=""metadata-line""]/span[1]","//*[@id=""metadata-line""]/span",2.8M views
+66,"//*[@id=""metadata-line""]/span[2]","//*[@id=""metadata-line""]/span",12 years ago
+67,"//*[@id=""button""]/yt-icon[1]/span[1]/div[1]","//*[@id=""button""]/yt-icon/span/div",
+68,"//*[@id=""thumbnail""]/yt-image[1]/img[1]","//*[@id=""thumbnail""]/yt-image/img",
+69,"//*[@id=""overlays""]/ytd-thumbnail-overlay-time-status-renderer[1]/div[1]/badge-shape[1]/div[1]","//*[@id=""overlays""]/ytd-thumbnail-overlay-time-status-renderer/div/badge-shape/div",1:11:11
+70,"//*[@id=""avatar""]/yt-decorated-avatar-view-model[1]/yt-avatar-shape[1]/div[1]/div[1]/div[1]/div[1]/div[1]","//*[@id=""avatar""]/yt-decorated-avatar-view-model/yt-avatar-shape/div/div/div/div/div",LIVE
+71,"//*[@id=""video-title""]","//*[@id=""video-title""]",This HANUMAN CHALISA will Transform Your Life | Lyrics & Meaning | For Success & Abundance
+72,"//*[@id=""text""]/a[1]","//*[@id=""text""]/a",Mahakatha - Meditation Mantras
+73,"//*[@id=""channel-name""]/ytd-badge-supported-renderer[1]/div[1]/yt-icon[1]/span[1]/div[1]","//*[@id=""channel-name""]/ytd-badge-supported-renderer/div/yt-icon/span/div",
+74,"//*[@id=""metadata-line""]/span[1]","//*[@id=""metadata-line""]/span",1.2M views
+75,"//*[@id=""metadata-line""]/span[2]","//*[@id=""metadata-line""]/span",1 month ago
+76,"//*[@id=""button""]/yt-icon[1]/span[1]/div[1]","//*[@id=""button""]/yt-icon/span/div",
+77,"//*[@id=""thumbnail""]/yt-image[1]/img[1]","//*[@id=""thumbnail""]/yt-image/img",
+78,"//*[@id=""overlays""]/ytd-thumbnail-overlay-time-status-renderer[1]/div[1]/badge-shape[1]/div[1]","//*[@id=""overlays""]/ytd-thumbnail-overlay-time-status-renderer/div/badge-shape/div",1:02:42
+79,"//*[@id=""thumbnail""]/yt-image[1]/img[1]","//*[@id=""thumbnail""]/yt-image/img",
+80,"//*[@id=""overlays""]/ytd-thumbnail-overlay-time-status-renderer[1]/div[1]/badge-shape[1]/div[1]","//*[@id=""overlays""]/ytd-thumbnail-overlay-time-status-renderer/div/badge-shape/div",1:45
+81,"//*[@id=""thumbnail""]/yt-image[1]/img[1]","//*[@id=""thumbnail""]/yt-image/img",
+82,"//*[@id=""overlays""]/ytd-thumbnail-overlay-time-status-renderer[1]/div[1]/badge-shape[1]/div[1]","//*[@id=""overlays""]/ytd-thumbnail-overlay-time-status-renderer/div/badge-shape/div",2:25:36
+83,"//*[@id=""mentorai-extension""]/div[1]/div[1]/div[1]/div[1]/img[1]","//*[@id=""mentorai-extension""]/div/div/div/div/img",
+84,"//*[@id=""mentorai-extension""]/div[1]/div[1]/div[1]/div[1]/span[1]","//*[@id=""mentorai-extension""]/div/div/div/div/span",
